@@ -1,4 +1,4 @@
-# kaspar-netflix-clone
+# meelispulp-netflix-clone
 
 
 This is my Netflix clone. It has authentication, account registration with firebase. The landing page is exact copy, login experience is exact copy and list of films and series including sample video is exact copy.
